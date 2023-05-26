@@ -1,0 +1,33 @@
+:root {
+    --global-line-height: 1.5em;
+    --background-color: #192330;
+    --page-width: 60em;
+    --font-color: #E8F0E5;
+    --invert-font-color: #222225;
+    --primary-color: #86ABDC;
+    --secondary-color: #499096;
+    --tertiary-color: #a3abba;
+    --error-color: #ff3c74;
+    --progress-bar-background: #3f3f44;
+    --progress-bar-fill: #62c4ff;
+    --code-bg-color: #3f3f44;
+}
+
+
+.avatar-block {
+    margin-right: 1.5rem;
+}
+.avatar {
+    display: block;
+    border-radius: 50%;
+    max-width: 6rem;
+    min-width: 6rem;
+    box-shadow:
+        0 0 0 0.2rem var(--background-color),
+        0 0 0 0.3rem var(--primary-color),
+        0 0.1rem 0.2rem 0.3rem var(--tertiary-color);
+}
+
+.menu-item {
+    white-space: nowrap;
+}

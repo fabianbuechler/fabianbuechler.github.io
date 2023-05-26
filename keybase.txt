@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/fabianbuechler
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fabian.buechler.io
+  * I am fabianbuechler (https://keybase.io/fabianbuechler) on keybase.
+  * I have a public key ASDNGnlE75iuDEQ72dHUE_8p8LTDZXKASQbM6icU-HFW-go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e9e3973441134c031644416a5c00ae21b7ee7fdcac60e5d43cce5d4966aa56970a",
+      "host": "keybase.io",
+      "kid": "0120cd1a7944ef98ae0c443bd9d1d413ff29f0b4c36572804906ccea2714f87156fa0a",
+      "uid": "1f4f54e2b566384007aea0d3ff0b7019",
+      "username": "fabianbuechler"
+    },
+    "merkle_root": {
+      "ctime": 1505068025,
+      "hash": "d1926a4d3250b17b2cedf9410b802501154bcf76891e93fe69be9c273033f79e34c787a4ab17cd1ede182b9e474beda22aa57db64749a0e3420b1ae569e3b3af",
+      "hash_meta": "3abcc1c99a96b18e6ccd201fbe381eac8c5a49c4c61822b3f8703150bc635fdb",
+      "seqno": 1378639
+    },
+    "service": {
+      "hostname": "fabian.buechler.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.30"
+  },
+  "ctime": 1505068194,
+  "expire_in": 504576000,
+  "prev": "2a734df4e58a471b4546344a9368172fa76311b7ece1b41847678549dc45eec2",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzRp5RO+YrgxEO9nR1BP/KfC0w2VygEkGzOonFPhxVvoKp3BheWxvYWTFA1B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZTllMzk3MzQ0MTEzNGMwMzE2NDQ0MTZhNWMwMGFlMjFiN2VlN2ZkY2FjNjBlNWQ0M2NjZTVkNDk2NmFhNTY5NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2QxYTc5NDRlZjk4YWUwYzQ0M2JkOWQxZDQxM2ZmMjlmMGI0YzM2NTcyODA0OTA2Y2NlYTI3MTRmODcxNTZmYTBhIiwidWlkIjoiMWY0ZjU0ZTJiNTY2Mzg0MDA3YWVhMGQzZmYwYjcwMTkiLCJ1c2VybmFtZSI6ImZhYmlhbmJ1ZWNobGVyIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA1MDY4MDI1LCJoYXNoIjoiZDE5MjZhNGQzMjUwYjE3YjJjZWRmOTQxMGI4MDI1MDExNTRiY2Y3Njg5MWU5M2ZlNjliZTljMjczMDMzZjc5ZTM0Yzc4N2E0YWIxN2NkMWVkZTE4MmI5ZTQ3NGJlZGEyMmFhNTdkYjY0NzQ5YTBlMzQyMGIxYWU1NjllM2IzYWYiLCJoYXNoX21ldGEiOiIzYWJjYzFjOTlhOTZiMThlNmNjZDIwMWZiZTM4MWVhYzhjNWE0OWM0YzYxODIyYjNmODcwMzE1MGJjNjM1ZmRiIiwic2Vxbm8iOjEzNzg2Mzl9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZmFiaWFuLmJ1ZWNobGVyLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzAifSwiY3RpbWUiOjE1MDUwNjgxOTQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMmE3MzRkZjRlNThhNDcxYjQ1NDYzNDRhOTM2ODE3MmZhNzYzMTFiN2VjZTFiNDE4NDc2Nzg1NDlkYzQ1ZWVjMiIsInNlcW5vIjo3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFnBE4N9xcrDGTKu0KSESkqKMpxCpPWXeIwuBuNFx/ow+7/GL3ZCcQgonXBRqP4j4P/lbtLj8ziIWR2/ENiSJwioc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCeryCBZJROaqwxd1F8ZTjAvC7mztz1PG8PdCAnxPPysqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fabianbuechler
+
+==================================================================
